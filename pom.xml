@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.hms</groupId>
-    <artifactId>customerService</artifactId>
+    <artifactId>hotelManagementService</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>customerService</name>
-    <description>customerService</description>
+    <name>hotelManagementService</name>
+    <description>hotelManagementService</description>
     <url/>
     <licenses>
         <license/>
